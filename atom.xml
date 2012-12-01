@@ -4,7 +4,7 @@
   <title><![CDATA[Pity is the Bomp!]]></title>
   <link href="http://pityonline.github.com/atom.xml" rel="self"/>
   <link href="http://pityonline.github.com/"/>
-  <updated>2012-12-01T08:32:51+08:00</updated>
+  <updated>2012-12-01T08:35:03+08:00</updated>
   <id>http://pityonline.github.com/</id>
   <author>
     <name><![CDATA[pityonline]]></name>
@@ -12,16 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://pityonline.github.com/blog/2012/12/01/test/"/>
-    <updated>2012-12-01T08:31:00+08:00</updated>
-    <id>http://pityonline.github.com/blog/2012/12/01/test</id>
-    <content type="html"><![CDATA[<h2>Hello Octopress!</h2>
-
-<p>It&#8217;s a test post, let it show on my GitHub Page.</p>
-]]></content>
-  </entry>
   
 </feed>
