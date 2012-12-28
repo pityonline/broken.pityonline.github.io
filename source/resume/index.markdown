@@ -9,11 +9,13 @@ footer: false
 
 * __Basic__
 
+Name: Leon Li (李勇)  
 Gender: Male Age: 29
 
 * __Contact__
 
-Mobile: 18611113090 Mail: <pityonline@gmail.com>
+Mobile: 18611113090  
+Mail: <pityonline@gmail.com>
 
 ### Objective
 Linux System Administrator
