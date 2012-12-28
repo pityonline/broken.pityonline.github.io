@@ -29,7 +29,7 @@ I also love books, movies, music & workouts and all things which can make life b
 * __Platforms__ Ubuntu Linux, Mac OS, Windows, Android
 * __Tools__ Vim, Git, GIMP, LaTeX,
 Office, Dropbox, Google, Wikipedia, iPod Classic, Kindle
-* __Social__Twitter, IRC, Douban, V2EX.
+* __Social__ Twitter, IRC, Douban, V2EX.
 
 ### Education
 
@@ -49,7 +49,8 @@ Office, Dropbox, Google, Wikipedia, iPod Classic, Kindle
 
 ### Online Version
 
-* __English:__ [HTML](http://pityonline.github.com/resume) [PDF](http://pityonline.info/Leon_Linux_Resume.en.pdf)
+* __HTML:__ [English](http://pityonline.github.com/resume)
+* __PDF:__ [English](http://pityonline.info/Leon_Linux_Resume.en.pdf) [Chinese](http://pityonline.info/Leon_Linux_Resume.zh.pdf)
 
 * * *
 
