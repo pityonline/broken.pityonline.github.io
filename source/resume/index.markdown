@@ -49,7 +49,8 @@ Office, Dropbox, Google, Wikipedia, iPod Classic, Kindle
 
 ### Online Version
 
-* __English:__ [HTML](http://pityonline.github.com/resume) [PDF](http://pityonline.info/Leon_Linux_Resume.en.pdf)
+* __HTML:__ [English](http://pityonline.github.com/resume)
+* __PDF:__ [English](http://pityonline.info/Leon_Linux_Resume.en.pdf) [Chinese](http://pityonline.info/Leon_Linux_Resume.zh.pdf)
 
 * * *
 
