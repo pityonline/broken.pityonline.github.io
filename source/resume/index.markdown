@@ -39,15 +39,16 @@ Office, Dropbox, Google, Wikipedia, iPod Classic, Kindle
 
 ### Experience
 
-* __Bars & Restaurants__
-    * __2003.3-2004.7__ In Yunmeng & The River bar in Sanlitun as waiter, bartender, manager. Learned and practised oral English, got along with all the guests.
-    * __2004.9-2006.5__ In ADRIA & Traktirr restaurants as waiter, foreman, intern manager, manager. Learned some Italian & Russian, retrieved a stolen wall painting.
+* __Customer Service Technology Engineer__
+    * __2008.11-2012.5__ In Optoma Corp. as repair engineer. Been good at repairing DMD projectors, done many onsite services well in North China and Northeast of China. Also worked as system admin, maintaining the infrastructure for 3.5 years.
 
 * __Network Engineer__
     * __2006.8-2008.10__ In Yurui Communication Tech Ltd,. as network engineer. Learned PBX, Intranet, Internet building, testing and cabling.
 
-* __Customer Service Technology Engineer__
-    * __2008.11-2012.5__ In Optoma Corp. as repair engineer. Been good at repairing DMD projectors, done many onsite services well in North China and Northeast of China. Also worked as system admin, maintaining the infrastructure for 3.5 years.
+* __Bars & Restaurants__
+    * __2004.9-2006.5__ In ADRIA & Traktirr restaurants as waiter, foreman, intern manager, manager. Learned some Italian & Russian, retrieved a stolen wall painting.
+
+    * __2003.3-2004.7__ In Yunmeng & The River bar in Sanlitun as waiter, bartender, manager. Learned and practised oral English, got along with all the guests.
 
 ### Online Version
 
